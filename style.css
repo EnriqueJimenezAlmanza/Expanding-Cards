@@ -56,7 +56,7 @@ body {
         width: 100%;
     }
     .panel:nth-last-of-type(4),
-    .panel:nth-last-of-type(4) {
+    .panel:nth-last-of-type(5) {
         display: none
     }
 }
