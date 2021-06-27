@@ -1,15 +1,12 @@
 # Expanding Cards
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Este es el primer proyecto de 50_
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Dentro de este proyecto se utilizo CSS, HTML y JavaScript_
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
-### Pre-requisitos 📋
+### Apartado HTML 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
