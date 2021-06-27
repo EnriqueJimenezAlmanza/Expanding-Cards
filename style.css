@@ -55,7 +55,7 @@ body {
     .container {
         width: 100%;
     }
-    .panel:nth-last-of-type(1),
+    .panel:nth-last-of-type(5),
     .panel:nth-last-of-type(2) {
         display: none
     }
